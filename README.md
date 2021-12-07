@@ -6,8 +6,6 @@
 5. Run "php artisan db:seed" on the Terminal to seed existing data into the tables that I've created
 6. Run "php artisan serve" to host the web on your local machine
 
-note: Unfortunately because my project isnt finished yet, this project can't be run at this stage.
-
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
